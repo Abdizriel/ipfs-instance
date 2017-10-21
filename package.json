@@ -1,0 +1,30 @@
+{
+  "name": "ipfs-instance",
+  "version": "0.0.1",
+  "description": "IPFS reusable instance",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdizriel/ipfs-instance.git"
+  },
+  "keywords": [
+    "IPFS"
+  ],
+  "author": "Marcin Mrotek <kontakt@marcinmrotek.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdizriel/ipfs-instance/issues"
+  },
+  "homepage": "https://github.com/Abdizriel/ipfs-instance#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "ipfs": "^0.26.0"
+  }
+}
